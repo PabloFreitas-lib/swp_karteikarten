@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="uni.myosotis.gui.MainMenu">
+  <tabbedpane id="9ad47">
+    <constraints>
+      <xy x="2" y="1" width="639" height="349"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children/>
+  </tabbedpane>
+</form>

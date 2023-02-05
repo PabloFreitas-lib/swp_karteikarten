@@ -1,0 +1,123 @@
+﻿Object;Deutsch;English;Spanish;Portuguese;French
+title;Myosotis;Myosotis;Myosotis;Myosotis; Myosotis
+glossarTitle;Glossar;Glossar;Glosario;Glossário; Glossaire
+categoryTitle;Kategorien;Categories;Categorías;Categorias; Catégories
+indexcardTitle;Karteikarten;Indexcards;Fichas;Cartões de índice; Fiches
+keywordTitle;Schlagwörter;Keywords;Palabras clave; Palavras-chave; Mots-clés
+indexcardBoxTitle;Karteikästen;Indexcard Boxes;Cajas de Fichas; Caixas de cartões de índice; Boîtes de fiches
+settingsTitle;Einstellungen;Settings;Ajustes; Configurações; Paramètres
+search;Suchen;Search;Buscar; Buscar; Rechercher
+category;Kategorie;Category;Categoría; Categoria; Catégorie
+create;Erstellen;Create;Crear; Criar; Créer
+edit;Bearbeiten;Edit;Editar; Editar; Éditer
+delete;Entfernen;Delete;Eliminar; Eliminar; Supprimer
+correct;Richtig;Correct;Correcto; Correto; Correct
+wrong;Falsch;Wrong;Incorrecto; Incorreto; Faux
+createIndexcardTitle;Karteikarte erstellen;Create Indexcard;Crear Ficha; Criar cartão de índice; Créer une fiche
+confirm;Bestätigen;Confirm;Confirmar; Confirmar; Confirmer
+cancel;Abbrechen;Cancel;Cancelar; Cancelar; Annuler
+question;Frage;Question;Pregunta; Pergunta; Question
+answered;Beantwortet;answered;Respondido; Respondido; Répondu
+answer;Antwort;Answer;Respuesta; Resposta; Réponse
+keyword;Schlagwort;Keyword;Palabra clave; Palavra-chave; Mot-clé
+name;Name;Name;Nombre; Nome; Nom
+createIndexcardBoxTitle;Karteikasten erstellen;Create Indexcardbox;Crear caja de Fichas; Criar caixa de cartões de índice; Créer une boîte de fiches
+link;Verlinkungen;Links;Enlaces; Ligações; Liens
+term;Begriff;Term;Término; Termo; Terme
+indexcard;Karteikarte;Indexcard;Ficha; Cartão de índice; Fiche
+addLink;Verlinkung hinzufügen;Add Link;Añadir enlace; Adicionar ligação; Ajouter un lien
+removeLink;Verlinkung entfernen;Remove Links;Eliminar enlace; Remover ligação; Supprimer un lien
+editIndexcardBoxTitle;Karteikästen bearbeiten;Edit Indexcardbox;Editar caja de Fichas; Editar caixa de cartões de índice; Éditer une boîte de fiches
+notAllFieldsFilledError;Es müssen alle Felder ausgefüllt sein.;All fields need to be filled.;Todos los campos deben ser llenados.; Todos os campos devem ser preenchidos.; Tous les champs doivent être remplis.
+indexcardNotCreated;Karteikarte nicht erstellt.;Indexcard not created; Ficha no creada; Cartão de índice não criado; Fiche non créée
+noValidTerm;Kein gültiger Begriff.;No valid Term;No hay término válido; Nenhum termo válido; Aucun terme valide
+indexcardboxNotCreated;Karteikasten nicht erstellt.;Indexcardbox was not created.; Caja de Fichas no creada; Caixa de cartões de índice não criada; Boîte de fiches non créée
+indexcardAlreadyExistError;Es existiert bereits eine Karteikarte mit diesem Namen (%s) .;There is already another Indexcard with this name (%s) .; Ya existe una Ficha con este nombre (%s).; Já existe um cartão de índice com este nome (%s).; Il existe déjà une fiche avec ce nom (%s).
+nameAlreadyAssignedError;Name bereits vergeben;Name is already assigned; Nombre ya asignado; Nome já atribuído; Nom déjà attribué
+indexcardToEditNonExistingError;Karteikarte zum Bearbeiten existiert nicht!;Indexcard which should be edited is non existing.; La Ficha que se quiere editar no existe.; O cartão de índice que se quer editar não existe.; La fiche que vous voulez éditer n'existe pas.
+indexcardNotEditedError;Karteikarte nicht verändert.;Indexcard not edited.; Ficha no editada; Cartão de índice não editado; Fiche non éditée
+whichIndexcard;Welche Indexkarte soll gelöscht werden?;Which Indexcard should be deleted?; ¿Qué Ficha quiere eliminar?; Qual cartão de índice deve ser eliminado?; Quelle fiche doit être supprimée?
+noIndexcardSelectedError;Keine Karteikarte ausgewählt.;No Indexcard selected; No hay Ficha seleccionada; Nenhum cartão de índice selecionado; Aucune fiche sélectionnée
+deletionNotPossibleError;Löschen nicht möglich;Deletion not possible; Eliminación no posible; Eliminação não possível; Suppression impossible
+deleteIndexcardTitle;Karteikarte löschen;Delete Indexcard; Eliminar Ficha; Eliminar cartão de índice; Supprimer une fiche
+deleteIndexcardBoxTitle;Karteikasten löschen;Delete Indexcardbox; Eliminar caja de Fichas; Eliminar caixa de cartões de índice; Supprimer une boîte de fiches
+whichIndexcardBox;Welche Karteikästen soll gelöscht werden?;Which Indexcardboxes should be deleted?; ¿Qué caja de Fichas quiere eliminar?; Qual caixa de cartões de índice deve ser eliminada?; Quelle boîte de fiches doit être supprimée?
+noIndexcardBoxSelectedError;Keine Karteikasten ausgewählt.;No Indexcardbox selected; No hay caja de Fichas seleccionada; Nenhuma caixa de cartões de índice selecionada; Aucune boîte de fiches sélectionnée
+createCategoryTitle;Kategorie erstellen;Create Category; Crear categoría; Criar categoria; Créer une catégorie
+parent;Übergeordnete Kategorie;Parent Category; Categoría superior; Categoria superior; Catégorie parente
+indexcardList;Karteikartenliste;List of Indexcards; Lista de Fichas; Lista de cartões de índice; Liste de fiches
+categoryNotCreatedError;Kategorie nicht erstellt.;Category not created.; Categoría no creada; Categoria não criada; Catégorie non créée
+editCategoryTitle;Kategorie bearbeiten;Edit Category; Editar categoría; Editar categoria; Éditer une catégorie
+deleteCategoryTitle;Kategorie löschen;Delete Category; Eliminar categoría; Eliminar categoria; Supprimer une catégorie
+whichCategory;Welche Kategorie soll gelöscht werden?;Which Category should be deleted?; ¿Qué categoría quiere eliminar?; Qual categoria deve ser eliminada?; Quelle catégorie doit être supprimée?
+noCategorySelectedError;Keine Kategorie ausgewählt.;No Category selected.; No hay categoría seleccionada; Nenhuma categoria selecionada; Aucune catégorie sélectionnée
+back;Zurück;Back; Atrás; Voltar; Retour
+next;Nächster;Next; Siguiente; Próximo; Suivant
+indexcardCreatedMessage;Die Karteikarte (%s) wurde erfolgreich erstellt.;The Indexcard (%s) got successfully created.; La Ficha (%s) fue creada con éxito.; O cartão de índice (%s) foi criado com sucesso.; La fiche (%s) a été créée avec succès.
+indexcardCreated;Karteikarte erstellt;Indexcard created; Ficha creada; Cartão de índice criado; Fiche créée
+indexcardEditedMessage;Die Karteikarte (%s) wurde erfolgreich bearbeitet.;The Indexcard (%s) got successfully edited.; La Ficha (%s) fue editada con éxito.; O cartão de índice (%s) foi editado com sucesso.; La fiche (%s) a été éditée avec succès.
+indexcardEdited;Karteikarte bearbeitet;Indexcard edited; Ficha editada; Cartão de índice editado; Fiche éditée
+noIndexcardWithNameError;Es existiert keine Karteikarte mit diesem Namen.;There is no Indexcard with the given name.; No hay Ficha con este nombre.; Não existe nenhum cartão de índice com este nome.; Il n'existe pas de fiche avec ce nom.
+noIndexcardError;Karteikarte nicht vorhanden.;Indexcard does not exists; No hay Ficha; Não existe nenhum cartão de índice; La fiche n'existe pas
+indexcardDeletedMessage;Die Karteikarte (%s) wurde erfolgreich gelöscht.;The Indexcard (%s) got successfully deleted.; La Ficha (%s) fue eliminada con éxito.; O cartão de índice (%s) foi eliminado com sucesso.; La fiche (%s) a été supprimée avec succès.
+indexcardDeleted;Karteikarte gelöscht;Indexcard deleted; Ficha eliminada; Cartão de índice eliminado; Fiche supprimée
+indexcardDeletedError;Die Karteikarte konnte nicht gelöscht werden.;The Indexcard could not be deleted.; La Ficha no pudo ser eliminada.; O cartão de índice não pôde ser eliminado.; La fiche n'a pas pu être supprimée.
+indexcardNotDeleted;Karteikarte nicht gelöscht;Indexcard not deleted; Ficha no eliminada; Cartão de índice não eliminado; Fiche non supprimée
+indexcardBoxCreatedMessage;Der Karteikasten (%s) wurde erfolgreich erstellt.;The Indexcardbox (%s) got successfully created.; La caja de Fichas (%s) fue creada con éxito.; A caixa de cartões de índice (%s) foi criada com sucesso.; La boîte de fiches (%s) a été créée avec succès.
+indexcardBoxCreated;Karteikasten erstellt;Indexcardbox created; Caja de Fichas creada; Caixa de cartões de índice criada; Boîte de fiches créée
+indexcardBoxAlreadyExistError;Es existiert bereits ein Karteikasten mit diesem Namen.;There is already a Indexcardbox with this name.; Ya existe una caja de Fichas con este nombre.; Já existe uma caixa de cartões de índice com este nome.; Il existe déjà une boîte de fiches avec ce nom.
+indexcardBoxDeletedMessage;Der Karteikasten (%s) wurde erfolgreich gelöscht.;The Indexcardbox (%s) got successfully deleted.; La caja de Fichas (%s) fue eliminada con éxito.; A caixa de cartões de índice (%s) foi eliminada com sucesso.; La boîte de fiches (%s) a été supprimée avec succès.
+indexcardBoxDeleted;Karteikasten gelöscht;Indexcardbox deleted; Caja de Fichas eliminada; Caixa de cartões de índice eliminada; Boîte de fiches supprimée
+indexcardBoxEditedMessage;Der Karteikasten wurde erfolgreich bearbeitet.;The Indexcardbox got successfully edited.; La caja de Fichas fue editada con éxito. ; A caixa de cartões de índice foi editada com sucesso.; La boîte de fiches a été éditée avec succès.
+indexcardBoxEdited;Karteikasten bearbeitet;Indexcardbox edited; Caja de Fichas editada; Caixa de cartões de índice editada; Boîte de fiches éditée
+noIndexcardBoxWithNameError;Es existiert kein Karteikasten mit diesem Namen.;There is no Indexcardbox with the given name.; No hay caja de Fichas con este nombre.; Não existe nenhuma caixa de cartões de índice com este nome.; Il n'existe pas de boîte de fiches avec ce nom.
+noIndexcardBoxError;Karteikasten nicht vorhanden.;Indexcardbox does not exists; No hay caja de Fichas; Não existe nenhuma caixa de cartões de índice; La boîte de fiches n'existe pas
+categoryCreatedMessage;Die Kategorie (%s) wurde erfolgreich erstellt.;The Category (%s) got successfully created.; La categoría (%s) fue creada con éxito.; A categoria (%s) foi criada com sucesso.; La catégorie (%s) a été créée avec succès.
+categoryCreated;Kategorie erstellt;Category created; Categoría creada; Categoria criada; Catégorie créée
+categoryAlreadyExistError;Es existiert bereits eine Kategorie mit diesem Namen.;There is already a Category with this name.; Ya existe una categoría con este nombre.; Já existe uma categoria com este nome.; Il existe déjà une catégorie avec ce nom.
+categoryDeletedMessage;Die Kategorie (%s) wurde erfolgreich gelöscht.;The Category (%s) got successfully deleted.; La categoría (%s) fue eliminada con éxito.; A categoria (%s) foi eliminada com sucesso.; La catégorie (%s) a été supprimée avec succès.
+categoryDeleted;Kategorie gelöscht;Category deleted; Categoría eliminada; Categoria eliminada; Catégorie supprimée
+categoryEditedMessage;Der Kategorie (%s) wurde erfolgreich bearbeitet.;The Category (%s) got successfully edited.; La categoría (%s) fue editada con éxito.; A categoria (%s) foi editada com sucesso.; La catégorie (%s) a été éditée avec succès.
+categoryEdited;Kategorie bearbeitet;Category edited; Categoría editada; Categoria editada; Catégorie éditée
+noCategoryWithNameError;Es existiert keine Kategorie mit diesem Namen.;There is no Category with the given name.; No hay categoría con este nombre.; Não existe nenhuma categoria com este nome.; Il n'existe pas de catégorie avec ce nom.
+noCategoryBoxError;Kategorie nicht vorhanden.;Category does not exists; No hay categoría; Não existe nenhuma categoria; La catégorie n'existe pas
+noCategoryInIndexcardboxError;Der Karteikasten enthält keine Kategorien;The Indexcardbox does not contain any categories.; La caja de Fichas no contiene categorías; A caixa de cartões de índice não contém categorias; La boîte de fiches ne contient pas de catégories
+noCategoryInIndexcardbox;Karteikasten leer;Empty Indexcardbox; Caja de Fichas vacía; Caixa de cartões de índice vazia; Boîte de fiches vide
+categoryWithNoNameError;Die Kategorie muss einen Namen haben.;The Category must have a name; La categoría debe tener un nombre; A categoria deve ter um nome; La catégorie doit avoir un nom
+categoryWithNoName;Kein Name eingegeben;No name entered; No se ha introducido un nombre; Nenhum nome inserido; Aucun nom entré
+hierarchy;Hierachie;Hierarchy; Jerarquía; Hierarquia; Hiérarchie
+noCategoryToEditError;Kategorie zum bearbeiten existiert nicht!;Category to edit does not exist; La categoría a editar no existe; A categoria a editar não existe; La catégorie à éditer n'existe pas
+removeFilter;Filter entfernen;Remove filter; Eliminar filtro; Remover filtro; Supprimer le filtre
+reverseSort;Sortierung umkehren;Reverse Sorting; Invertir orden; Reverter ordenação; Inverser le tri
+selectCategory;Wählen Sie ein Kategorie aus;Select a Category; Seleccione una categoría; Selecione uma categoria; Sélectionnez une catégorie
+selectKeyword;Wählen Sie eine Schlagwort aus;Select a Keyword; Seleccione una palabra clave; Selecione uma palavra-chave; Sélectionnez un mot-clé
+filter;Filtern;Filter; Filtrar; Filtrar; Filtrer
+searchForName;Suche nach Namen;Search for name; Buscar por nombre; Procurar por nome; Rechercher par nom
+learn;Lernen;Learn; Aprender; Aprender; Apprendre
+learnSystem;Lernsystem;Learn system; Sistema de aprendizaje; Sistema de aprendizagem; Système d'apprentissage
+noIndexcardBoxExistsError;Es existiert kein Karteikasten.;There is no Indexcardbox.; No hay caja de Fichas; Não existe nenhuma caixa de cartões de índice; Il n'existe pas de boîte de fiches.
+noIndexcardBoxExists;Kein Karteikasten vorhanden;No Indexcardbox exists; No hay caja de Fichas; Não existe nenhuma caixa de cartões de índice; Il n'existe pas de boîte de fiches.
+selectOneIndexcardBoxMessage;Wählen Sie einen Karteikasten aus;Select one Indexcardbox.; Seleccione una caja de Fichas; Selecione uma caixa de cartões de índice; Sélectionnez une boîte de fiches
+selectOneIndexcardBox;Keinen oder zu viele Karteikästen ausgewählt.;No or too many Indexcardboxes selected.; No se ha seleccionado ninguna o demasiadas cajas de Fichas; Nenhuma ou muitas caixas de cartões de índice selecionadas; Aucune ou trop de boîtes de fiches sélectionnées
+selectLearnSystemMessage;Wählen Sie ein Lernsystem aus;Select a learn system.; Seleccione un sistema de aprendizaje; Selecione um sistema de aprendizagem; Sélectionnez un système d'apprentissage
+selectLearnSystem;Lernsystem nicht verfügbar;Learn system not available; Sistema de aprendizaje no disponible; Sistema de aprendizagem não disponível; Système d'apprentissage non disponible
+language;Sprache;Language; Idioma; Idioma; Langue
+linkedIndexcardsList;Verknüpfte Karteikarten;Linked Indexcards; Fichas vinculadas; Cartões de índice vinculados; Fiches liées
+nameAndBox;Name: %s Box: %d;Name: %s Box: %d; Nombre: %s Caja: %d; Nome: %s Caixa: %d; Nom: %s Boîte: %d
+sorryMessage;Entschuldigung.;Sorry.; Lo siento.; Desculpe.; Désolé.
+linkedIndexcardsList;Verknüpfte Karteikarten;Linked Indexcards; Fichas vinculadas; Cartões de índice vinculados; Fiches liées
+boxEnded;%s beendet;%s ended; Caja %s terminada; Caixa %s terminada; Boîte %s terminée
+boxEndedMessage; %s wurde erfolgreich beendet.; %s ended successfully.; %s terminó con éxito.; %s terminou com sucesso.; %s s'est terminée avec succès.
+boxEmpty;Box %s ist leer;Box %s is empty; Caja %s está vacía; Caixa %s está vazia; Boîte %s est vide
+boxEmptyMessage; %s ist leer.; %s is empty.; %s está vacía.; %s está vazia.; %s est vide.
+random;Zufällig;Random; Aleatorio; Aleatório; Aléatoire
+alphabetical;Alphabetisch;Alphabetical; Alfabético; Alfabético; Alphabetique
+boxEmptyMessage; %s ist leer.; %s is empty.; %s está vacía.; %s está vazia.; %s est vide.
+selectBoxError;Keine Box ausgewählt.;No box selected.; No se ha seleccionado ninguna caja.; Nenhuma caixa selecionada.; Aucune boîte sélectionnée.
+selectSortError;Keine Sortierung ausgewählt.;No sorting selected.; No se ha seleccionado ningún orden.; Nenhuma ordenação selecionada.; Aucun tri sélectionné.
+selectMethod; Bitte wählen sie eine Methode aus!; Please select a method!;¡Seleccione un método!; Selecione um método!; Veuillez sélectionner une méthode !
+learningConfiguration;Lernkonfiguration;Learning configuration; Configuración de aprendizaje; Configuração de aprendizagem; Configuration d'apprentissage
+firstBox;Box 1; Box 1; Caja 1; Caixa 1; Boîte 1
+leitner;Leitner;Leitner; Leitner; Leitner; Leitner
+sort;Sortierung;Sorting; Orden; Ordenação; Tri
+box; Box; Box; Caja; Caixa; Boîte
